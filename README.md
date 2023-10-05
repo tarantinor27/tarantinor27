@@ -18,15 +18,16 @@ You can click the Preview link to take a look at your changes.
 >A project utilizing variables, text, and sprites to create a scene.
 
 [Animation]()
-
+>
 
 [Interactive Card]()
-
+>
 
 [Side Scroller]()
-
+>
 
 [Flyer Game]()
-
+>
 
 [Project - Design A Game]()
+>
