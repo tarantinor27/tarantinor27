@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 >I this project I used a variety of shapes and variables along with many random aspects to express my creativity and created a random Robot Face.
 
 [Captioned Scene](https://studio.code.org/projects/gamelab/wz3iYMkA17XUaLcQlAd-tS3kiGZlkp9zKnMwDBfcRH4)
->A project utilizing variables, text, and srpites to create a scene.
+>A project utilizing variables, text, and sprites to create a scene.
