@@ -10,7 +10,7 @@
 # My Projects
 ## Code.org GameLab
 [Robot Face](https://tarantinor27.github.io/Robot)
->I this project I used a variety of shapes and variables along with many random aspects to express my creativity and created a random Robot Face.
+>In this project I used a variety of shapes and variables along with many random aspects to express my creativity and created a random Robot Face.
 
 [Captioned Scene](https://studio.code.org/projects/gamelab/wz3iYMkA17XUaLcQlAd-tS3kiGZlkp9zKnMwDBfcRH4)
 >A project utilizing variables, text, and sprites to create a scene.
