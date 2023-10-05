@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 [Robot Face](https://tarantinor27.github.io/Robot)
 >I this project I used a variety of shapes and variables along with many random aspects to express my creativity and created a random Robot Face.
 
-[Captioned Scene]()
+[Captioned Scene](https://studio.code.org/projects/gamelab/wz3iYMkA17XUaLcQlAd-tS3kiGZlkp9zKnMwDBfcRH4)
