@@ -6,6 +6,7 @@
 
 ### My Octocat
 ![OctocatSmall](https://github.com/tarantinor27/tarantinor27/assets/146843439/2ffe4270-09e0-4e51-b93f-39ae9b55d2c5)
+# My Projects
 ## Code.org GameLab
 [Robot Face](https://tarantinor27.github.io/Robot)
 >I this project I used a variety of shapes and variables along with many random aspects to express my creativity and created a random Robot Face.
