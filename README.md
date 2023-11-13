@@ -21,10 +21,10 @@
 [Interactive Card](https://studio.code.org/projects/gamelab/K_lYERd7_NnsnkLUdxvP42_PbTtJ4lbzmJVY-MXPsDY)
 >
 
-[Side Scroller]()
+[Side Scroller](https://studio.code.org/projects/gamelab/dHlBZ7kJGd__BPV0wqWcq-S8IevgtdovrE_7_h0o9is)
 >
 
-[Flyer Game]()
+[Flyer Game](https://studio.code.org/projects/gamelab/et2g7mljs86hIzxIG5fVop3xfk8FeVpM3GwHoxc81S4)
 >
 
 [Project - Design A Game]()
