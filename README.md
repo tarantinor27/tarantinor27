@@ -15,17 +15,18 @@
 [Captioned Scene](https://studio.code.org/projects/gamelab/wz3iYMkA17XUaLcQlAd-tS3kiGZlkp9zKnMwDBfcRH4)
 >A project utilizing variables, text, and sprites to create a scene.
 
-[Animation]()
->
-
 [Interactive Card](https://studio.code.org/projects/gamelab/K_lYERd7_NnsnkLUdxvP42_PbTtJ4lbzmJVY-MXPsDY)
->
+>A card involving multiple sprites which can be opened through player interaction.
 
 [Side Scroller](https://studio.code.org/projects/gamelab/dHlBZ7kJGd__BPV0wqWcq-S8IevgtdovrE_7_h0o9is)
->
+>A game where the player controls a sprite and attempts to avoid moving objects.
 
 [Flyer Game](https://studio.code.org/projects/gamelab/et2g7mljs86hIzxIG5fVop3xfk8FeVpM3GwHoxc81S4)
->
+>A game where the player can use the arrows keys to move in  four directions while attempting to collect and avoid certain sprites.
 
-[Project - Design A Game]()
->
+[Platform Game](https://studio.code.org/projects/gamelab/oacie2-EZ_jMEZdD-4wg5giLtbm0w7kWnqJe2ECF1pQ)
+>In this game the player will control a sprite and jump between platforms while avoinding falling or touching certain objects.
+
+[Final Game Project](https://studio.code.org/projects/gamelab/ndCMGqUwRrLRK3IURkRAlRNqZ71aX6sA61UN4mkdIuY)
+>In my final game project the user will control the sprite of a fish while avoiding objects such as a shark or urchin.
+
