@@ -33,11 +33,13 @@
 ## Mit App Inventor
 
 [Hello Its Me]()
->
+>Images of different animals can be clicked to play corresponding sounds.
 
 [MyPiano]()
->
+>THis project uses the concepts from the previous project to create a replica of keys on a piano.
 
 [Music Maker]()
->
+>The user can click on intruments to play them and record the string of intruments which they played.
 
+[Find The Gold]()
+>In this project the player must tilt their device to avoi dobstacles and reach the gold.
