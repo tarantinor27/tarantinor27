@@ -32,14 +32,17 @@
 
 ## Mit App Inventor
 
-[Hello Its Me]()
+[Hello Its Me](https://gallery.appinventor.mit.edu/?galleryid=624cf007-5658-4663-898f-89427ee6c29d)
 >Images of different animals can be clicked to play corresponding sounds.
 
-[MyPiano]()
+[MyPiano](https://gallery.appinventor.mit.edu/?galleryid=989082bc-2fb6-4a6f-97a0-ac435fd5cc0e)
 >This project uses the concepts from the previous project to create a replica of keys on a piano.
 
-[Music Maker]()
+[Music Maker](https://gallery.appinventor.mit.edu/?galleryid=166dfd5d-acb5-441c-a9b5-27c97a2264b3)
 >The user can click on intruments to play them and record the string of intruments which they played.
 
-[Find The Gold]()
+[Find The Gold](https://gallery.appinventor.mit.edu/?galleryid=69ed90fb-38d2-46d7-9880-45bdcaef0300)
 >In this project the player must tilt their device to avoi dobstacles and reach the gold.
+
+[Food Chase](https://gallery.appinventor.mit.edu/?galleryid=b15ec821-3619-4dab-9072-3f5bb821a000)
+>In this project the player will flick the red ball across thee screen to collect food and avoid the green ball.
