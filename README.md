@@ -49,7 +49,11 @@
 
 ## CMU Python
 
-[CMU- Creative Task 1](https://academy.cs.cmu.edu/sharing/lawnGreenOwl2810)
+
+[CMU- Unit 1 Creative Task](https://academy.cs.cmu.edu/sharing/lawnGreenOwl2810)
 
 
-[CMU- Creative Task 2](https://academy.cs.cmu.edu/sharing/lawnGreenCrocodile6880)
+[CMU- Unit 2 Creative Task](https://academy.cs.cmu.edu/sharing/lawnGreenCrocodile6880)
+
+
+
