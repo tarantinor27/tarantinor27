@@ -46,3 +46,10 @@
 
 [Food Chase](https://gallery.appinventor.mit.edu/?galleryid=b15ec821-3619-4dab-9072-3f5bb821a000)
 >In this project the player will flick the red ball across thee screen to collect food and avoid the green ball.
+
+## CMU Python
+
+[CMU- Creative Task 1](https://academy.cs.cmu.edu/sharing/lawnGreenOwl2810)
+
+
+[CMU- Creative Task 2](https://academy.cs.cmu.edu/sharing/lawnGreenCrocodile6880)
