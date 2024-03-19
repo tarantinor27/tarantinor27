@@ -51,9 +51,7 @@
 
 
 [CMU- Unit 1 Creative Task](https://academy.cs.cmu.edu/sharing/lawnGreenOwl2810)
-
+>In this project I used the concepts we alerned to draw a mountain range.
 
 [CMU- Unit 2 Creative Task](https://academy.cs.cmu.edu/sharing/lawnGreenCrocodile6880)
-
-
-
+>In this projects I used the conceps formmthe unit to make a clock which progresses through time.
