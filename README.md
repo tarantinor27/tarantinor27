@@ -56,7 +56,7 @@
 [CMU- Unit 2 Creative Task](https://academy.cs.cmu.edu/sharing/lawnGreenCrocodile6880)
 >In this projects I used the concepts from the unit to make a clock which progresses through time.
 
-[CMU- Unit 2 Creative Task](https://academy.cs.cmu.edu/sharing/blackKitten4862)
+[CMU- Unit 3 Creative Task](https://academy.cs.cmu.edu/sharing/blackKitten4862)
 >In this project I created a rocket ship which moves with the mouse cursor and can interact with objects when it is touching.
 
 
